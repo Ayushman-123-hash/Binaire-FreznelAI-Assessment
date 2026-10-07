@@ -1,0 +1,35 @@
+{
+  "name": "binaire-freznelai-assessment",
+  "version": "1.0.0",
+  "description": "Javascript Developer Web-Store UI Assessment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushman-123-hash/Binaire-FreznelAI-Assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Ayushman-123-hash/Binaire-FreznelAI-Assessment/issues"
+  },
+  "homepage": "https://github.com/Ayushman-123-hash/Binaire-FreznelAI-Assessment#readme",
+  "dependencies": {
+    "firebase": "^12.19.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
+    "vite": "^7.1.7"
+  }
+}
